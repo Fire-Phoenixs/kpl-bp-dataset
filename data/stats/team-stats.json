@@ -1,0 +1,666 @@
+[
+ {
+  "team": "重庆狼队",
+  "games": 1642,
+  "wins": 840,
+  "losses": 802,
+  "win_rate": 51.2,
+  "leagues": 33
+ },
+ {
+  "team": "北京WB",
+  "games": 1467,
+  "wins": 733,
+  "losses": 734,
+  "win_rate": 50,
+  "leagues": 30
+ },
+ {
+  "team": "成都AG超玩会",
+  "games": 1456,
+  "wins": 730,
+  "losses": 726,
+  "win_rate": 50.1,
+  "leagues": 27
+ },
+ {
+  "team": "广州TTG",
+  "games": 1448,
+  "wins": 739,
+  "losses": 709,
+  "win_rate": 51,
+  "leagues": 30
+ },
+ {
+  "team": "佛山DRG",
+  "games": 1384,
+  "wins": 662,
+  "losses": 722,
+  "win_rate": 47.8,
+  "leagues": 27
+ },
+ {
+  "team": "武汉eStarPro",
+  "games": 1351,
+  "wins": 687,
+  "losses": 664,
+  "win_rate": 50.9,
+  "leagues": 29
+ },
+ {
+  "team": "济南RW侠",
+  "games": 1275,
+  "wins": 628,
+  "losses": 647,
+  "win_rate": 49.3,
+  "leagues": 27
+ },
+ {
+  "team": "KSG",
+  "games": 1255,
+  "wins": 612,
+  "losses": 643,
+  "win_rate": 48.8,
+  "leagues": 25
+ },
+ {
+  "team": "杭州LGD.NBW",
+  "games": 1159,
+  "wins": 556,
+  "losses": 603,
+  "win_rate": 48,
+  "leagues": 24
+ },
+ {
+  "team": "南通Hero久竞",
+  "games": 1146,
+  "wins": 570,
+  "losses": 576,
+  "win_rate": 49.7,
+  "leagues": 25
+ },
+ {
+  "team": "长沙TES.A",
+  "games": 1138,
+  "wins": 588,
+  "losses": 550,
+  "win_rate": 51.7,
+  "leagues": 24
+ },
+ {
+  "team": "上海EDG.M",
+  "games": 1089,
+  "wins": 524,
+  "losses": 565,
+  "win_rate": 48.1,
+  "leagues": 26
+ },
+ {
+  "team": "深圳DYG",
+  "games": 1055,
+  "wins": 536,
+  "losses": 519,
+  "win_rate": 50.8,
+  "leagues": 25
+ },
+ {
+  "team": "北京JDG",
+  "games": 1029,
+  "wins": 528,
+  "losses": 501,
+  "win_rate": 51.3,
+  "leagues": 24
+ },
+ {
+  "team": "西安WE",
+  "games": 940,
+  "wins": 465,
+  "losses": 475,
+  "win_rate": 49.5,
+  "leagues": 24
+ },
+ {
+  "team": "上海RNG.M",
+  "games": 880,
+  "wins": 450,
+  "losses": 430,
+  "win_rate": 51.1,
+  "leagues": 23
+ },
+ {
+  "team": "XYG",
+  "games": 411,
+  "wins": 221,
+  "losses": 190,
+  "win_rate": 53.8,
+  "leagues": 10
+ },
+ {
+  "team": "郑州MTG",
+  "games": 388,
+  "wins": 198,
+  "losses": 190,
+  "win_rate": 51,
+  "leagues": 10
+ },
+ {
+  "team": "桐乡情久",
+  "games": 252,
+  "wins": 121,
+  "losses": 131,
+  "win_rate": 48,
+  "leagues": 7
+ },
+ {
+  "team": "无锡TCG",
+  "games": 152,
+  "wins": 81,
+  "losses": 71,
+  "win_rate": 53.3,
+  "leagues": 5
+ },
+ {
+  "team": "常山UUG",
+  "games": 138,
+  "wins": 75,
+  "losses": 63,
+  "win_rate": 54.3,
+  "leagues": 5
+ },
+ {
+  "team": "BOA",
+  "games": 95,
+  "wins": 51,
+  "losses": 44,
+  "win_rate": 53.7,
+  "leagues": 3
+ },
+ {
+  "team": "GOG",
+  "games": 90,
+  "wins": 45,
+  "losses": 45,
+  "win_rate": 50,
+  "leagues": 6
+ },
+ {
+  "team": "SYG",
+  "games": 80,
+  "wins": 35,
+  "losses": 45,
+  "win_rate": 43.8,
+  "leagues": 3
+ },
+ {
+  "team": "WST",
+  "games": 69,
+  "wins": 32,
+  "losses": 37,
+  "win_rate": 46.4,
+  "leagues": 4
+ },
+ {
+  "team": "深圳KLG",
+  "games": 62,
+  "wins": 33,
+  "losses": 29,
+  "win_rate": 53.2,
+  "leagues": 2
+ },
+ {
+  "team": "BA黑凤梨",
+  "games": 53,
+  "wins": 26,
+  "losses": 27,
+  "win_rate": 49.1,
+  "leagues": 1
+ },
+ {
+  "team": "东莞Wz",
+  "games": 51,
+  "wins": 27,
+  "losses": 24,
+  "win_rate": 52.9,
+  "leagues": 4
+ },
+ {
+  "team": "EMC",
+  "games": 51,
+  "wins": 25,
+  "losses": 26,
+  "win_rate": 49,
+  "leagues": 5
+ },
+ {
+  "team": "TOPM",
+  "games": 48,
+  "wins": 25,
+  "losses": 23,
+  "win_rate": 52.1,
+  "leagues": 1
+ },
+ {
+  "team": "ROX",
+  "games": 42,
+  "wins": 22,
+  "losses": 20,
+  "win_rate": 52.4,
+  "leagues": 5
+ },
+ {
+  "team": "NOVA",
+  "games": 42,
+  "wins": 22,
+  "losses": 20,
+  "win_rate": 52.4,
+  "leagues": 4
+ },
+ {
+  "team": "CW",
+  "games": 40,
+  "wins": 13,
+  "losses": 27,
+  "win_rate": 32.5,
+  "leagues": 4
+ },
+ {
+  "team": "九江TKL",
+  "games": 38,
+  "wins": 17,
+  "losses": 21,
+  "win_rate": 44.7,
+  "leagues": 1
+ },
+ {
+  "team": "VSG",
+  "games": 35,
+  "wins": 19,
+  "losses": 16,
+  "win_rate": 54.3,
+  "leagues": 3
+ },
+ {
+  "team": "青训破军",
+  "games": 26,
+  "wins": 9,
+  "losses": 17,
+  "win_rate": 34.6,
+  "leagues": 1
+ },
+ {
+  "team": "青训凌云",
+  "games": 26,
+  "wins": 12,
+  "losses": 14,
+  "win_rate": 46.2,
+  "leagues": 1
+ },
+ {
+  "team": "MD",
+  "games": 25,
+  "wins": 16,
+  "losses": 9,
+  "win_rate": 64,
+  "leagues": 2
+ },
+ {
+  "team": "KZ",
+  "games": 23,
+  "wins": 11,
+  "losses": 12,
+  "win_rate": 47.8,
+  "leagues": 2
+ },
+ {
+  "team": "斗鱼XHW",
+  "games": 22,
+  "wins": 11,
+  "losses": 11,
+  "win_rate": 50,
+  "leagues": 1
+ },
+ {
+  "team": "LTG",
+  "games": 19,
+  "wins": 8,
+  "losses": 11,
+  "win_rate": 42.1,
+  "leagues": 2
+ },
+ {
+  "team": "梦之队Pro",
+  "games": 17,
+  "wins": 8,
+  "losses": 9,
+  "win_rate": 47.1,
+  "leagues": 1
+ },
+ {
+  "team": "虎牙小当家",
+  "games": 16,
+  "wins": 6,
+  "losses": 10,
+  "win_rate": 37.5,
+  "leagues": 1
+ },
+ {
+  "team": "ESC",
+  "games": 13,
+  "wins": 6,
+  "losses": 7,
+  "win_rate": 46.2,
+  "leagues": 1
+ },
+ {
+  "team": "辣翻你是绝队",
+  "games": 13,
+  "wins": 10,
+  "losses": 3,
+  "win_rate": 76.9,
+  "leagues": 1
+ },
+ {
+  "team": "佳美娜",
+  "games": 12,
+  "wins": 4,
+  "losses": 8,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "天鹿",
+  "games": 12,
+  "wins": 5,
+  "losses": 7,
+  "win_rate": 41.7,
+  "leagues": 1
+ },
+ {
+  "team": "情久",
+  "games": 11,
+  "wins": 6,
+  "losses": 5,
+  "win_rate": 54.5,
+  "leagues": 1
+ },
+ {
+  "team": "TCG",
+  "games": 10,
+  "wins": 6,
+  "losses": 4,
+  "win_rate": 60,
+  "leagues": 1
+ },
+ {
+  "team": "镇江VTG",
+  "games": 10,
+  "wins": 6,
+  "losses": 4,
+  "win_rate": 60,
+  "leagues": 1
+ },
+ {
+  "team": "世巨A",
+  "games": 10,
+  "wins": 5,
+  "losses": 5,
+  "win_rate": 50,
+  "leagues": 1
+ },
+ {
+  "team": "ESG",
+  "games": 9,
+  "wins": 2,
+  "losses": 7,
+  "win_rate": 22.2,
+  "leagues": 1
+ },
+ {
+  "team": "昆山SC",
+  "games": 9,
+  "wins": 6,
+  "losses": 3,
+  "win_rate": 66.7,
+  "leagues": 1
+ },
+ {
+  "team": "嵊州SZG",
+  "games": 9,
+  "wins": 6,
+  "losses": 3,
+  "win_rate": 66.7,
+  "leagues": 1
+ },
+ {
+  "team": "DQ",
+  "games": 9,
+  "wins": 5,
+  "losses": 4,
+  "win_rate": 55.6,
+  "leagues": 1
+ },
+ {
+  "team": "HI",
+  "games": 8,
+  "wins": 5,
+  "losses": 3,
+  "win_rate": 62.5,
+  "leagues": 1
+ },
+ {
+  "team": "HH",
+  "games": 8,
+  "wins": 2,
+  "losses": 6,
+  "win_rate": 25,
+  "leagues": 1
+ },
+ {
+  "team": "TLG",
+  "games": 8,
+  "wins": 3,
+  "losses": 5,
+  "win_rate": 37.5,
+  "leagues": 1
+ },
+ {
+  "team": "桑杰队",
+  "games": 8,
+  "wins": 5,
+  "losses": 3,
+  "win_rate": 62.5,
+  "leagues": 1
+ },
+ {
+  "team": "TY",
+  "games": 7,
+  "wins": 3,
+  "losses": 4,
+  "win_rate": 42.9,
+  "leagues": 1
+ },
+ {
+  "team": "Wkk",
+  "games": 7,
+  "wins": 5,
+  "losses": 2,
+  "win_rate": 71.4,
+  "leagues": 1
+ },
+ {
+  "team": "ZJQ",
+  "games": 7,
+  "wins": 4,
+  "losses": 3,
+  "win_rate": 57.1,
+  "leagues": 1
+ },
+ {
+  "team": "YYG",
+  "games": 6,
+  "wins": 2,
+  "losses": 4,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "HJG",
+  "games": 6,
+  "wins": 2,
+  "losses": 4,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "ZDC",
+  "games": 5,
+  "wins": 2,
+  "losses": 3,
+  "win_rate": 40,
+  "leagues": 1
+ },
+ {
+  "team": "SLT",
+  "games": 4,
+  "wins": 2,
+  "losses": 2,
+  "win_rate": 50,
+  "leagues": 1
+ },
+ {
+  "team": "无锡JXG",
+  "games": 4,
+  "wins": 2,
+  "losses": 2,
+  "win_rate": 50,
+  "leagues": 1
+ },
+ {
+  "team": "WD",
+  "games": 4,
+  "wins": 2,
+  "losses": 2,
+  "win_rate": 50,
+  "leagues": 1
+ },
+ {
+  "team": "青训潜渊",
+  "games": 4,
+  "wins": 1,
+  "losses": 3,
+  "win_rate": 25,
+  "leagues": 1
+ },
+ {
+  "team": "HBSE",
+  "games": 4,
+  "wins": 1,
+  "losses": 3,
+  "win_rate": 25,
+  "leagues": 1
+ },
+ {
+  "team": "WG",
+  "games": 4,
+  "wins": 1,
+  "losses": 3,
+  "win_rate": 25,
+  "leagues": 1
+ },
+ {
+  "team": "重庆科技大学",
+  "games": 3,
+  "wins": 2,
+  "losses": 1,
+  "win_rate": 66.7,
+  "leagues": 1
+ },
+ {
+  "team": "TE溯",
+  "games": 3,
+  "wins": 2,
+  "losses": 1,
+  "win_rate": 66.7,
+  "leagues": 1
+ },
+ {
+  "team": "阿里巴巴PKQ",
+  "games": 3,
+  "wins": 3,
+  "losses": 0,
+  "win_rate": 100,
+  "leagues": 1
+ },
+ {
+  "team": "OP",
+  "games": 3,
+  "wins": 1,
+  "losses": 2,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "GKE",
+  "games": 3,
+  "wins": 1,
+  "losses": 2,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "BTR",
+  "games": 3,
+  "wins": 0,
+  "losses": 3,
+  "win_rate": 0,
+  "leagues": 1
+ },
+ {
+  "team": "APG",
+  "games": 3,
+  "wins": 2,
+  "losses": 1,
+  "win_rate": 66.7,
+  "leagues": 1
+ },
+ {
+  "team": "好厚米",
+  "games": 3,
+  "wins": 1,
+  "losses": 2,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "WYG",
+  "games": 3,
+  "wins": 0,
+  "losses": 3,
+  "win_rate": 0,
+  "leagues": 1
+ },
+ {
+  "team": "BOOM",
+  "games": 3,
+  "wins": 0,
+  "losses": 3,
+  "win_rate": 0,
+  "leagues": 1
+ },
+ {
+  "team": "金陵科技学院",
+  "games": 3,
+  "wins": 1,
+  "losses": 2,
+  "win_rate": 33.3,
+  "leagues": 1
+ },
+ {
+  "team": "吵一吵",
+  "games": 3,
+  "wins": 2,
+  "losses": 1,
+  "win_rate": 66.7,
+  "leagues": 1
+ }
+]

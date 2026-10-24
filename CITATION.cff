@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "如果本数据集对你的研究或产品有帮助，请按下列信息引用。"
+title: "KPL BP Dataset —— 王者荣耀职业联赛（KPL）对局 Ban/Pick 数据集（2019–2026）"
+abstract: >-
+  从腾讯官方赛事数据接口采集的 KPL 全量对局 BP 数据，覆盖 33 个赛事、约 1.1 万局比赛，
+  含每局完整的 ban/pick 顺序、胜负、时长、双方经济与推塔、选手-英雄对应，
+  并提供大场表、宽表、长表与英雄/战队聚合统计。数据仅用于研究、分析与开发，非官方、非商业。
+type: dataset
+version: 1.0.0
+date-released: "2026-10-24"
+license: "CC-BY-NC-4.0"
+license-url: "https://creativecommons.org/licenses/by-nc/4.0/"
+repository-code: "https://github.com/Fire-Phoenixs/kpl-bp-dataset"
+url: "https://github.com/Fire-Phoenixs/kpl-bp-dataset"
+keywords:
+  - Honor of Kings
+  - KPL
+  - MOBA
+  - ban pick
+  - esports
+  - draft
+authors:
+  - name: "Fire-Phoenixs (Liu Haoyang)"
+    alias: "Fire-Phoenixs"
+preferred-citation:
+  type: dataset
+  title: "KPL BP Dataset"
+  authors:
+    - name: "Fire-Phoenixs (Liu Haoyang)"
+  year: 2026
+  url: "https://github.com/Fire-Phoenixs/kpl-bp-dataset"
+  notes: >-
+    原始赛事与对局数据的著作权归腾讯及王者荣耀赛事方所有；本仓库仅为公开数据的研究性整理，
+    与腾讯公司及 KPL 官方无隶属关系。引用时请同时注明数据来源：
+    pvp.qq.com 赛事数据中心 / prod.comp.smoba.qq.com 赛事数据接口。

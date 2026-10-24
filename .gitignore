@@ -1,0 +1,44 @@
+# ---- 依赖 / 构建产物 ----
+node_modules/
+dist/
+.cache/
+
+# ---- 采集中间产物（不进版本库）----
+# 重新采集时 collect-kpl-bp-all.mjs 会把原始响应写到 data/raw/，体积大且可重跑
+data/raw/
+*.jsonl.tmp
+*.part
+
+# ---- 本地数据库（由 scripts/load-sqlite.mjs 生成）----
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.db
+
+# ---- 日志与临时文件 ----
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tmp
+.tmp/
+
+# ---- Python（文档里的 pandas 示例可能产生）----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- 编辑器 / 操作系统 ----
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

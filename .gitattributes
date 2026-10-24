@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+# 数据文件统一 LF，避免跨平台 diff 噪音
+*.jsonl text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+*.md    text eol=lf
+*.sql   text eol=lf
+*.mjs   text eol=lf

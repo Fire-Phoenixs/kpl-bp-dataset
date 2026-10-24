@@ -1,0 +1,37 @@
+name: validate-dataset
+
+# 数据完整性校验：任何 push / PR 都会跑 scripts/validate-dataset.mjs
+# 校验失败（exit code 1）即阻断合并，避免残缺或结构错误的 data/ 进入仓库
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-dataset-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate data/ (Node 20)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Show Node version
+        run: node --version
+
+      - name: Validate dataset
+        run: node scripts/validate-dataset.mjs

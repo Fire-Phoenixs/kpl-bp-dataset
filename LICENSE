@@ -1,0 +1,57 @@
+# 许可与权利说明 / License & Rights Notice
+
+本仓库包含两类不同性质的客体，分别适用不同规则。**请先读第 1 节。**
+
+---
+
+## 1. 数据：权利归腾讯 / 王者荣耀赛事方
+
+`data/` 目录下的赛事与对局数据（赛事名称、战队与选手名称、逐局 Ban/Pick 记录、比分、时长、经济与选手统计等），来自腾讯官方赛事数据接口的公开赛事数据。
+
+- **著作权归腾讯 / 王者荣耀赛事方所有。**
+- 本仓库的整理者**不主张对上述数据事实部分的著作权**，也**不通过本 LICENSE 授予**任何超出权利人许可范围的权利。
+- 在事实数据之上可能存在的数据库汇编权、赛事组织方享有的其他权利，同样归权利人所有。
+- 如权利人认为本仓库的收录方式不妥，请通过仓库 Issue 联系，我们会立即删除相关内容。
+
+## 2. 整理成果：CC BY-NC 4.0
+
+本仓库**自行创作**的部分——目录与文件结构、字段命名与数据模型、统计与校验脚本（`scripts/`）、SQL 建表（`sql/`）、文档（`README.md`、`docs/` 下非自动生成的说明文字）、以及由上述脚本生成的**派生统计结果的组织方式**——按
+
+**Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0，署名—非商业性使用 4.0 国际）**
+
+授权使用。许可全文（权威版本）：
+
+- 中文：<https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans>
+- English: <https://creativecommons.org/licenses/by-nc/4.0/legalcode>
+
+在该许可下你可以：
+
+- **共享**：以任何媒介或格式复制、发行本仓库的整理成果
+- **演绎**：修改、转换、基于整理成果再创作
+
+但必须遵守：
+
+- **署名**：注明来源为本仓库（<https://github.com/Fire-Phoenixs/kpl-bp-dataset>）及数据来源为腾讯官方赛事数据接口，并说明是否作了修改
+- **非商业**：不得将本许可下的材料用于商业目的（商业性使用需另行获得许可）
+- **不得增加额外限制**：不得以法律条款或技术手段限制他人做本许可允许的事
+- **无担保**：按「现状」提供，不提供任何明示或默示担保
+
+## 3. 范围排除
+
+- 第 2 节的许可**不覆盖** `data/` 中的事实数据本身（见第 1 节）。
+- 本仓库与腾讯、天美工作室群、KPL 官方**无隶属、合作或授权关系**；不得以「官方」「官方数据」「官方合作」等名义传播本仓库或其衍生内容。
+- 商标、赛事标识、战队与选手名称等归各自权利人所有，本仓库仅为指称与检索目的使用。
+
+## 4. 免责
+
+本仓库按「现状」提供，不对数据的完整性、准确性、时效性或适用性作任何担保。因使用本仓库内容产生的任何直接或间接损失，由使用者自行承担。
+
+---
+
+## English summary (short)
+
+The **event and match data** in `data/` is sourced from Tencent's public esports data endpoints. **Copyright in that data belongs to Tencent / the Honor of Kings esports organizers.** The maintainers of this repository do **not** claim copyright over the factual data and grant **no** rights beyond those permitted by the rights holders.
+
+The **repository's own work** — file layout, field schema, scripts (`scripts/`), SQL (`sql/`), and documentation — is licensed under **CC BY-NC 4.0** (Attribution-NonCommercial 4.0 International), full text at <https://creativecommons.org/licenses/by-nc/4.0/legalcode>. Attribution: link to <https://github.com/Fire-Phoenixs/kpl-bp-dataset> and to the underlying data source; indicate changes; **no commercial use**.
+
+This project is **unofficial** and is not affiliated with, endorsed by, or sponsored by Tencent, TiMi Studio Group, or the KPL. Provided "as is", without warranty of any kind.

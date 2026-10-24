@@ -1,0 +1,332 @@
+[
+ {
+  "league_id": "20190001",
+  "league_name": "2019KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2019,
+  "season": 1,
+  "start_time": "2019-03-06 00:00:00",
+  "end_time": "2019-06-02 23:59:00",
+  "status": 2
+ },
+ {
+  "league_id": "20190002",
+  "league_name": "2019世界冠军杯选拔赛",
+  "league_type_name": "world_champion_cup",
+  "year": 2019,
+  "season": 1,
+  "start_time": "2019-06-06 00:00:00",
+  "end_time": "2019-06-09 23:59:00",
+  "status": 2
+ },
+ {
+  "league_id": "20190003",
+  "league_name": "2019世界冠军杯正赛",
+  "league_type_name": "world_champion_cup",
+  "year": 2019,
+  "season": 1,
+  "start_time": "2019-07-10 00:00:00",
+  "end_time": "2019-08-10 23:59:00",
+  "status": 2
+ },
+ {
+  "league_id": "20190004",
+  "league_name": "2019KPL秋季赛",
+  "league_type_name": "kpl",
+  "year": 2019,
+  "season": 2,
+  "start_time": "2019-09-11 00:00:00",
+  "end_time": "2019-12-14 23:59:00",
+  "status": 2
+ },
+ {
+  "league_id": "20190006",
+  "league_name": "2019冬季冠军杯",
+  "league_type_name": "winter_champion_cup",
+  "year": 2019,
+  "season": 1,
+  "start_time": "2019-12-21 00:00:00",
+  "end_time": "2020-01-05 23:59:00",
+  "status": 2
+ },
+ {
+  "league_id": "20200001",
+  "league_name": "2020KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2020,
+  "season": 1,
+  "start_time": "2020-03-22 00:00:00",
+  "end_time": "2020-06-13 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20200002",
+  "league_name": "2020世界冠军杯选拔赛",
+  "league_type_name": "world_champion_cup",
+  "year": 2020,
+  "season": 1,
+  "start_time": "2020-06-22 00:00:00",
+  "end_time": "2020-06-28 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20200003",
+  "league_name": "2020世界冠军杯正赛",
+  "league_type_name": "world_champion_cup",
+  "year": 2020,
+  "season": 1,
+  "start_time": "2020-07-15 00:00:00",
+  "end_time": "2020-08-16 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20200004",
+  "league_name": "2020KPL秋季赛",
+  "league_type_name": "kpl",
+  "year": 2020,
+  "season": 2,
+  "start_time": "2020-09-16 00:00:00",
+  "end_time": "2020-12-19 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20200005",
+  "league_name": "2020冬季冠军杯",
+  "league_type_name": "winter_champion_cup",
+  "year": 2020,
+  "season": 1,
+  "start_time": "2021-01-06 00:00:00",
+  "end_time": "2021-01-23 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20210021",
+  "league_name": "2021KPL春季赛季前赛",
+  "league_type_name": "kpl",
+  "year": 2021,
+  "season": 0,
+  "start_time": "2021-03-11 15:00:00",
+  "end_time": "2021-03-21 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "202100201",
+  "league_name": "2021KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2021,
+  "season": 1,
+  "start_time": "2021-03-27 00:00:00",
+  "end_time": "2021-06-25 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20210003",
+  "league_name": "2021世界冠军杯",
+  "league_type_name": "world_champion_cup",
+  "year": 2021,
+  "season": 1,
+  "start_time": "2021-07-05 00:00:00",
+  "end_time": "2021-08-28 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20210004",
+  "league_name": "2021KPL秋季赛",
+  "league_type_name": "kpl",
+  "year": 2021,
+  "season": 1,
+  "start_time": "2021-09-22 00:00:00",
+  "end_time": "2021-12-25 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20210005",
+  "league_name": "2021年王者荣耀挑战者杯",
+  "league_type_name": "winter_champion_cup",
+  "year": 2021,
+  "season": 2,
+  "start_time": "2021-12-31 00:00:00",
+  "end_time": "2022-01-15 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20220001",
+  "league_name": "2022年KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2022,
+  "season": 1,
+  "start_time": "2022-02-09 00:00:00",
+  "end_time": "2022-05-08 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20220002",
+  "league_name": "2022年KPL夏季赛",
+  "league_type_name": "kpl",
+  "year": 2022,
+  "season": 2,
+  "start_time": "2022-06-08 00:00:00",
+  "end_time": "2022-09-08 13:26:05",
+  "status": 2
+ },
+ {
+  "league_id": "20220003",
+  "league_name": "2022年王者荣耀挑战者杯",
+  "league_type_name": "winter_champion_cup",
+  "year": 2022,
+  "season": 1,
+  "start_time": "2022-09-13 00:00:00",
+  "end_time": "2022-10-08 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20230001",
+  "league_name": "2023年KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2023,
+  "season": 1,
+  "start_time": "2023-02-10 00:00:00",
+  "end_time": "2023-06-02 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20230002",
+  "league_name": "2023年KPL夏季赛",
+  "league_type_name": "kpl",
+  "year": 2023,
+  "season": 1,
+  "start_time": "2023-06-14 00:00:00",
+  "end_time": "2023-09-10 21:10:05",
+  "status": 2
+ },
+ {
+  "league_id": "20230003",
+  "league_name": "2023年王者荣耀挑战者杯",
+  "league_type_name": "winter_champion_cup",
+  "year": 2023,
+  "season": 1,
+  "start_time": "2023-10-13 00:00:00",
+  "end_time": "2023-11-05 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20240001",
+  "league_name": "2024年KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2024,
+  "season": 1,
+  "start_time": "2024-01-31 00:00:00",
+  "end_time": "2024-05-21 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20240002",
+  "league_name": "2024年KPL夏季赛",
+  "league_type_name": "kpl",
+  "year": 2024,
+  "season": 2,
+  "start_time": "2024-06-12 00:00:00",
+  "end_time": "2024-10-01 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20240003",
+  "league_name": "2024年王者荣耀年度总决赛",
+  "league_type_name": "kpl",
+  "year": 2024,
+  "season": 3,
+  "start_time": "2024-10-02 00:00:00",
+  "end_time": "2024-12-01 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20240004",
+  "league_name": "2024年王者荣耀挑战者杯",
+  "league_type_name": "kpl",
+  "year": 2024,
+  "season": 4,
+  "start_time": "2024-12-01 00:00:00",
+  "end_time": "2025-02-01 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20250001",
+  "league_name": "2025年KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2025,
+  "season": 1,
+  "start_time": "2025-02-10 00:00:00",
+  "end_time": "2025-06-06 16:36:05",
+  "status": 2
+ },
+ {
+  "league_id": "20250002",
+  "league_name": "2025年KPL夏季赛",
+  "league_type_name": "kpl",
+  "year": 2025,
+  "season": 2,
+  "start_time": "2025-06-04 00:00:00",
+  "end_time": "2025-09-08 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20250003",
+  "league_name": "2025王者荣耀年度总决赛",
+  "league_type_name": "kpl",
+  "year": 2025,
+  "season": 3,
+  "start_time": "2025-09-28 00:00:00",
+  "end_time": "2025-11-09 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20250004",
+  "league_name": "2025年挑战者杯",
+  "league_type_name": "kpl",
+  "year": 2025,
+  "season": 4,
+  "start_time": "2025-12-01 00:00:00",
+  "end_time": "2026-01-12 17:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20260001",
+  "league_name": "2026年KPL春季赛",
+  "league_type_name": "kpl",
+  "year": 2026,
+  "season": 1,
+  "start_time": "2026-01-14 00:00:00",
+  "end_time": "2026-04-11 23:59:59",
+  "status": 2
+ },
+ {
+  "league_id": "20260002",
+  "league_name": "2026年挑战者杯",
+  "league_type_name": "kpl",
+  "year": 2026,
+  "season": 2,
+  "start_time": "2026-04-25 00:00:00",
+  "end_time": "2026-05-25 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20260003",
+  "league_name": "2026年KPL夏季赛",
+  "league_type_name": "kpl",
+  "year": 2026,
+  "season": 3,
+  "start_time": "2026-06-17 00:00:00",
+  "end_time": "2026-09-13 00:00:05",
+  "status": 2
+ },
+ {
+  "league_id": "20260004",
+  "league_name": "2026年KPL年度总决赛",
+  "league_type_name": "kpl",
+  "year": 2026,
+  "season": 4,
+  "start_time": "2026-10-02 00:00:00",
+  "end_time": "2026-11-14 23:59:59",
+  "status": 1
+ }
+]

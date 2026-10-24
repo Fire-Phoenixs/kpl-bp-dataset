@@ -1,0 +1,534 @@
+[
+ {
+  "hero_id": 105,
+  "hero": "廉颇"
+ },
+ {
+  "hero_id": 106,
+  "hero": "小乔"
+ },
+ {
+  "hero_id": 107,
+  "hero": "赵云"
+ },
+ {
+  "hero_id": 108,
+  "hero": "墨子"
+ },
+ {
+  "hero_id": 109,
+  "hero": "妲己"
+ },
+ {
+  "hero_id": 110,
+  "hero": "嬴政"
+ },
+ {
+  "hero_id": 111,
+  "hero": "孙尚香"
+ },
+ {
+  "hero_id": 112,
+  "hero": "鲁班七号"
+ },
+ {
+  "hero_id": 113,
+  "hero": "庄周"
+ },
+ {
+  "hero_id": 114,
+  "hero": "刘禅"
+ },
+ {
+  "hero_id": 115,
+  "hero": "高渐离"
+ },
+ {
+  "hero_id": 116,
+  "hero": "阿轲"
+ },
+ {
+  "hero_id": 117,
+  "hero": "钟无艳"
+ },
+ {
+  "hero_id": 118,
+  "hero": "孙膑"
+ },
+ {
+  "hero_id": 119,
+  "hero": "扁鹊"
+ },
+ {
+  "hero_id": 120,
+  "hero": "白起"
+ },
+ {
+  "hero_id": 121,
+  "hero": "芈月"
+ },
+ {
+  "hero_id": 123,
+  "hero": "吕布"
+ },
+ {
+  "hero_id": 124,
+  "hero": "周瑜"
+ },
+ {
+  "hero_id": 125,
+  "hero": "元歌"
+ },
+ {
+  "hero_id": 126,
+  "hero": "夏侯惇"
+ },
+ {
+  "hero_id": 127,
+  "hero": "甄姬"
+ },
+ {
+  "hero_id": 128,
+  "hero": "曹操"
+ },
+ {
+  "hero_id": 129,
+  "hero": "典韦"
+ },
+ {
+  "hero_id": 130,
+  "hero": "宫本武藏"
+ },
+ {
+  "hero_id": 131,
+  "hero": "李白"
+ },
+ {
+  "hero_id": 132,
+  "hero": "马可波罗"
+ },
+ {
+  "hero_id": 133,
+  "hero": "狄仁杰"
+ },
+ {
+  "hero_id": 134,
+  "hero": "达摩"
+ },
+ {
+  "hero_id": 135,
+  "hero": "项羽"
+ },
+ {
+  "hero_id": 136,
+  "hero": "武则天"
+ },
+ {
+  "hero_id": 137,
+  "hero": "司马懿"
+ },
+ {
+  "hero_id": 138,
+  "hero": "王维"
+ },
+ {
+  "hero_id": 139,
+  "hero": "老夫子"
+ },
+ {
+  "hero_id": 140,
+  "hero": "关羽"
+ },
+ {
+  "hero_id": 141,
+  "hero": "貂蝉"
+ },
+ {
+  "hero_id": 142,
+  "hero": "安琪拉"
+ },
+ {
+  "hero_id": 144,
+  "hero": "程咬金"
+ },
+ {
+  "hero_id": 146,
+  "hero": "露娜"
+ },
+ {
+  "hero_id": 148,
+  "hero": "姜子牙"
+ },
+ {
+  "hero_id": 149,
+  "hero": "刘邦"
+ },
+ {
+  "hero_id": 150,
+  "hero": "韩信"
+ },
+ {
+  "hero_id": 151,
+  "hero": "孙权"
+ },
+ {
+  "hero_id": 152,
+  "hero": "王昭君"
+ },
+ {
+  "hero_id": 153,
+  "hero": "兰陵王"
+ },
+ {
+  "hero_id": 154,
+  "hero": "花木兰"
+ },
+ {
+  "hero_id": 155,
+  "hero": "艾琳"
+ },
+ {
+  "hero_id": 156,
+  "hero": "张良"
+ },
+ {
+  "hero_id": 157,
+  "hero": "不知火舞"
+ },
+ {
+  "hero_id": 159,
+  "hero": "朵莉亚"
+ },
+ {
+  "hero_id": 162,
+  "hero": "娜可露露"
+ },
+ {
+  "hero_id": 163,
+  "hero": "橘右京"
+ },
+ {
+  "hero_id": 166,
+  "hero": "亚瑟"
+ },
+ {
+  "hero_id": 167,
+  "hero": "孙悟空"
+ },
+ {
+  "hero_id": 168,
+  "hero": "牛魔"
+ },
+ {
+  "hero_id": 169,
+  "hero": "后羿"
+ },
+ {
+  "hero_id": 170,
+  "hero": "刘备"
+ },
+ {
+  "hero_id": 171,
+  "hero": "张飞"
+ },
+ {
+  "hero_id": 172,
+  "hero": "蚩奼"
+ },
+ {
+  "hero_id": 173,
+  "hero": "李元芳"
+ },
+ {
+  "hero_id": 174,
+  "hero": "虞姬"
+ },
+ {
+  "hero_id": 175,
+  "hero": "钟馗"
+ },
+ {
+  "hero_id": 176,
+  "hero": "杨玉环"
+ },
+ {
+  "hero_id": 177,
+  "hero": "苍"
+ },
+ {
+  "hero_id": 178,
+  "hero": "杨戬"
+ },
+ {
+  "hero_id": 179,
+  "hero": "女娲"
+ },
+ {
+  "hero_id": 180,
+  "hero": "哪吒"
+ },
+ {
+  "hero_id": 182,
+  "hero": "干将莫邪"
+ },
+ {
+  "hero_id": 183,
+  "hero": "雅典娜"
+ },
+ {
+  "hero_id": 184,
+  "hero": "蔡文姬"
+ },
+ {
+  "hero_id": 186,
+  "hero": "太乙真人"
+ },
+ {
+  "hero_id": 187,
+  "hero": "东皇太一"
+ },
+ {
+  "hero_id": 188,
+  "hero": "大禹"
+ },
+ {
+  "hero_id": 189,
+  "hero": "鬼谷子"
+ },
+ {
+  "hero_id": 190,
+  "hero": "诸葛亮"
+ },
+ {
+  "hero_id": 191,
+  "hero": "大乔"
+ },
+ {
+  "hero_id": 192,
+  "hero": "黄忠"
+ },
+ {
+  "hero_id": 193,
+  "hero": "铠"
+ },
+ {
+  "hero_id": 194,
+  "hero": "苏烈"
+ },
+ {
+  "hero_id": 195,
+  "hero": "百里玄策"
+ },
+ {
+  "hero_id": 196,
+  "hero": "百里守约"
+ },
+ {
+  "hero_id": 197,
+  "hero": "弈星"
+ },
+ {
+  "hero_id": 198,
+  "hero": "梦奇"
+ },
+ {
+  "hero_id": 199,
+  "hero": "公孙离"
+ },
+ {
+  "hero_id": 312,
+  "hero": "沈梦溪"
+ },
+ {
+  "hero_id": 501,
+  "hero": "明世隐"
+ },
+ {
+  "hero_id": 502,
+  "hero": "裴擒虎"
+ },
+ {
+  "hero_id": 503,
+  "hero": "狂铁"
+ },
+ {
+  "hero_id": 504,
+  "hero": "米莱狄"
+ },
+ {
+  "hero_id": 505,
+  "hero": "瑶"
+ },
+ {
+  "hero_id": 506,
+  "hero": "云中君"
+ },
+ {
+  "hero_id": 507,
+  "hero": "李信"
+ },
+ {
+  "hero_id": 508,
+  "hero": "伽罗"
+ },
+ {
+  "hero_id": 509,
+  "hero": "盾山"
+ },
+ {
+  "hero_id": 510,
+  "hero": "孙策"
+ },
+ {
+  "hero_id": 511,
+  "hero": "猪八戒"
+ },
+ {
+  "hero_id": 513,
+  "hero": "上官婉儿"
+ },
+ {
+  "hero_id": 514,
+  "hero": "亚连"
+ },
+ {
+  "hero_id": 515,
+  "hero": "嫦娥"
+ },
+ {
+  "hero_id": 517,
+  "hero": "大司命"
+ },
+ {
+  "hero_id": 518,
+  "hero": "马超"
+ },
+ {
+  "hero_id": 519,
+  "hero": "敖隐"
+ },
+ {
+  "hero_id": 521,
+  "hero": "海月"
+ },
+ {
+  "hero_id": 522,
+  "hero": "曜"
+ },
+ {
+  "hero_id": 523,
+  "hero": "西施"
+ },
+ {
+  "hero_id": 524,
+  "hero": "蒙犽"
+ },
+ {
+  "hero_id": 525,
+  "hero": "鲁班大师"
+ },
+ {
+  "hero_id": 527,
+  "hero": "蒙恬"
+ },
+ {
+  "hero_id": 528,
+  "hero": "澜"
+ },
+ {
+  "hero_id": 529,
+  "hero": "盘古"
+ },
+ {
+  "hero_id": 531,
+  "hero": "镜"
+ },
+ {
+  "hero_id": 533,
+  "hero": "阿古朵"
+ },
+ {
+  "hero_id": 534,
+  "hero": "桑启"
+ },
+ {
+  "hero_id": 536,
+  "hero": "夏洛特"
+ },
+ {
+  "hero_id": 537,
+  "hero": "司空震"
+ },
+ {
+  "hero_id": 538,
+  "hero": "云缨"
+ },
+ {
+  "hero_id": 540,
+  "hero": "金蝉"
+ },
+ {
+  "hero_id": 542,
+  "hero": "暃"
+ },
+ {
+  "hero_id": 544,
+  "hero": "赵怀真"
+ },
+ {
+  "hero_id": 545,
+  "hero": "莱西奥"
+ },
+ {
+  "hero_id": 547,
+  "hero": "卢雅那"
+ },
+ {
+  "hero_id": 548,
+  "hero": "戈娅"
+ },
+ {
+  "hero_id": 549,
+  "hero": "心魔六耳"
+ },
+ {
+  "hero_id": 550,
+  "hero": "空空儿"
+ },
+ {
+  "hero_id": 558,
+  "hero": "影"
+ },
+ {
+  "hero_id": 563,
+  "hero": "海诺"
+ },
+ {
+  "hero_id": 564,
+  "hero": "姬小满"
+ },
+ {
+  "hero_id": 577,
+  "hero": "少司缘"
+ },
+ {
+  "hero_id": 581,
+  "hero": "元流之子(坦克)"
+ },
+ {
+  "hero_id": 582,
+  "hero": "元流之子(法师)"
+ },
+ {
+  "hero_id": 583,
+  "hero": "元流之子(刺客)"
+ },
+ {
+  "hero_id": 584,
+  "hero": "元流之子(射手)"
+ },
+ {
+  "hero_id": 585,
+  "hero": "元流之子(辅助)"
+ }
+]

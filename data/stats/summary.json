@@ -1,0 +1,586 @@
+{
+ "dataset": "KPL BP Dataset",
+ "version": "1.0.0",
+ "generated_at": "2026-10-24T13:02:27.700Z",
+ "source": {
+  "name": "腾讯官方赛事数据接口（王者荣耀赛事数据中心 pvp.qq.com 页面自身调用的接口）",
+  "endpoints": [
+   "https://prod.comp.smoba.qq.com/leaguesite/leagues/open",
+   "https://prod.comp.smoba.qq.com/leaguesite/matches/open?league_id={league_id}",
+   "https://prod.comp.smoba.qq.com/leaguesite/battle/open?battle_id={battle_id}"
+  ],
+  "page": "https://pvp.qq.com/matchdata/schedule.html?league_id={league_id}",
+  "rights": "赛事与对局数据的著作权归腾讯/王者荣耀赛事方所有；本仓库仅为研究、分析与开发用途的整理结果，非官方、非商业。"
+ },
+ "coverage": {
+  "leagues": 33,
+  "years": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "matches": 2887,
+  "games": 11141,
+  "games_with_bp": 9881,
+  "games_complete": 9817,
+  "games_partial": 64,
+  "games_without_bp": 1260,
+  "games_with_20_actions": 3453,
+  "heroes_seen": 133,
+  "teams": 83,
+  "ban_slots": 85442,
+  "pick_slots": 98170
+ },
+ "bp_len_distribution": {
+  "0": 1260,
+  "5": 3,
+  "6": 2,
+  "7": 11,
+  "8": 8,
+  "9": 2,
+  "10": 1,
+  "14": 4,
+  "16": 2,
+  "17": 22,
+  "18": 6364,
+  "19": 9,
+  "20": 3453
+ },
+ "side_stats_all": {
+  "games": 9817,
+  "blue_wins": 4913,
+  "red_wins": 4904,
+  "blue_win_rate": 50,
+  "first_pick_side": "blue",
+  "first_pick_win_rate": 50,
+  "avg_duration_min": 17.3
+ },
+ "side_stats_by_year": {
+  "2020": {
+   "games": 1318,
+   "blue_wins": 735,
+   "red_wins": 583,
+   "blue_win_rate": 55.8,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 55.8,
+   "avg_duration_min": 19.2
+  },
+  "2021": {
+   "games": 1504,
+   "blue_wins": 736,
+   "red_wins": 768,
+   "blue_win_rate": 48.9,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 48.9,
+   "avg_duration_min": 19.2
+  },
+  "2022": {
+   "games": 1190,
+   "blue_wins": 599,
+   "red_wins": 591,
+   "blue_win_rate": 50.3,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 50.3,
+   "avg_duration_min": 18.4
+  },
+  "2023": {
+   "games": 1235,
+   "blue_wins": 585,
+   "red_wins": 650,
+   "blue_win_rate": 47.4,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 47.3,
+   "avg_duration_min": 16.7
+  },
+  "2024": {
+   "games": 1579,
+   "blue_wins": 774,
+   "red_wins": 805,
+   "blue_win_rate": 49,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 49,
+   "avg_duration_min": 16.1
+  },
+  "2025": {
+   "games": 1529,
+   "blue_wins": 716,
+   "red_wins": 813,
+   "blue_win_rate": 46.8,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 46.8,
+   "avg_duration_min": 16.2
+  },
+  "2026": {
+   "games": 1462,
+   "blue_wins": 768,
+   "red_wins": 694,
+   "blue_win_rate": 52.5,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 52.6,
+   "avg_duration_min": 15.8
+  }
+ },
+ "side_stats_by_league": {
+  "20200001": {
+   "games": 538,
+   "blue_wins": 301,
+   "red_wins": 237,
+   "blue_win_rate": 55.9,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 55.9,
+   "avg_duration_min": 19.4
+  },
+  "20200002": {
+   "games": 69,
+   "blue_wins": 41,
+   "red_wins": 28,
+   "blue_win_rate": 59.4,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 59.4,
+   "avg_duration_min": 19.3
+  },
+  "20200003": {
+   "games": 109,
+   "blue_wins": 60,
+   "red_wins": 49,
+   "blue_win_rate": 55,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 55,
+   "avg_duration_min": 19.3
+  },
+  "20200004": {
+   "games": 519,
+   "blue_wins": 285,
+   "red_wins": 234,
+   "blue_win_rate": 54.9,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 54.9,
+   "avg_duration_min": 19.1
+  },
+  "20200005": {
+   "games": 83,
+   "blue_wins": 48,
+   "red_wins": 35,
+   "blue_win_rate": 57.8,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 57.8,
+   "avg_duration_min": 17.9
+  },
+  "20210003": {
+   "games": 221,
+   "blue_wins": 91,
+   "red_wins": 130,
+   "blue_win_rate": 41.2,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 41.2,
+   "avg_duration_min": 18.7
+  },
+  "20210004": {
+   "games": 560,
+   "blue_wins": 286,
+   "red_wins": 274,
+   "blue_win_rate": 51.1,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 51.1,
+   "avg_duration_min": 19.6
+  },
+  "20210005": {
+   "games": 72,
+   "blue_wins": 34,
+   "red_wins": 38,
+   "blue_win_rate": 47.2,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 47.2,
+   "avg_duration_min": 19.6
+  },
+  "20210021": {
+   "games": 135,
+   "blue_wins": 72,
+   "red_wins": 63,
+   "blue_win_rate": 53.3,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 53.3,
+   "avg_duration_min": 18.6
+  },
+  "20220001": {
+   "games": 546,
+   "blue_wins": 264,
+   "red_wins": 282,
+   "blue_win_rate": 48.4,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 48.4,
+   "avg_duration_min": 19.1
+  },
+  "20220002": {
+   "games": 566,
+   "blue_wins": 290,
+   "red_wins": 276,
+   "blue_win_rate": 51.2,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 51.2,
+   "avg_duration_min": 18
+  },
+  "20220003": {
+   "games": 78,
+   "blue_wins": 45,
+   "red_wins": 33,
+   "blue_win_rate": 57.7,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 57.7,
+   "avg_duration_min": 17.1
+  },
+  "20230001": {
+   "games": 566,
+   "blue_wins": 279,
+   "red_wins": 287,
+   "blue_win_rate": 49.3,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 49.2,
+   "avg_duration_min": 16.9
+  },
+  "20230002": {
+   "games": 556,
+   "blue_wins": 253,
+   "red_wins": 303,
+   "blue_win_rate": 45.5,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 45.5,
+   "avg_duration_min": 16.5
+  },
+  "20230003": {
+   "games": 113,
+   "blue_wins": 53,
+   "red_wins": 60,
+   "blue_win_rate": 46.9,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 46.9,
+   "avg_duration_min": 16.7
+  },
+  "20240001": {
+   "games": 549,
+   "blue_wins": 269,
+   "red_wins": 280,
+   "blue_win_rate": 49,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 49,
+   "avg_duration_min": 16.3
+  },
+  "20240002": {
+   "games": 568,
+   "blue_wins": 271,
+   "red_wins": 297,
+   "blue_win_rate": 47.7,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 47.7,
+   "avg_duration_min": 16.2
+  },
+  "20240003": {
+   "games": 235,
+   "blue_wins": 116,
+   "red_wins": 119,
+   "blue_win_rate": 49.4,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 49.1,
+   "avg_duration_min": 16
+  },
+  "20240004": {
+   "games": 227,
+   "blue_wins": 118,
+   "red_wins": 109,
+   "blue_win_rate": 52,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 52,
+   "avg_duration_min": 15.6
+  },
+  "20250001": {
+   "games": 571,
+   "blue_wins": 270,
+   "red_wins": 301,
+   "blue_win_rate": 47.3,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 47.3,
+   "avg_duration_min": 16.2
+  },
+  "20250002": {
+   "games": 558,
+   "blue_wins": 256,
+   "red_wins": 302,
+   "blue_win_rate": 45.9,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 45.9,
+   "avg_duration_min": 16.3
+  },
+  "20250003": {
+   "games": 232,
+   "blue_wins": 106,
+   "red_wins": 126,
+   "blue_win_rate": 45.7,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 45.7,
+   "avg_duration_min": 16
+  },
+  "20250004": {
+   "games": 168,
+   "blue_wins": 84,
+   "red_wins": 84,
+   "blue_win_rate": 50,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 50,
+   "avg_duration_min": 15.8
+  },
+  "20260001": {
+   "games": 569,
+   "blue_wins": 279,
+   "red_wins": 290,
+   "blue_win_rate": 49,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 49,
+   "avg_duration_min": 15.7
+  },
+  "20260002": {
+   "games": 181,
+   "blue_wins": 100,
+   "red_wins": 81,
+   "blue_win_rate": 55.2,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 55.2,
+   "avg_duration_min": 15.2
+  },
+  "20260003": {
+   "games": 553,
+   "blue_wins": 295,
+   "red_wins": 258,
+   "blue_win_rate": 53.3,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 53.4,
+   "avg_duration_min": 16.1
+  },
+  "20260004": {
+   "games": 159,
+   "blue_wins": 94,
+   "red_wins": 65,
+   "blue_win_rate": 59.1,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 59.5,
+   "avg_duration_min": 15.9
+  },
+  "202100201": {
+   "games": 516,
+   "blue_wins": 253,
+   "red_wins": 263,
+   "blue_win_rate": 49,
+   "first_pick_side": "blue",
+   "first_pick_win_rate": 49,
+   "avg_duration_min": 19
+  }
+ },
+ "top_ban": [
+  {
+   "hero": "鲁班大师",
+   "bans": 6048,
+   "ban_rate": 61.6
+  },
+  {
+   "hero": "大乔",
+   "bans": 4032,
+   "ban_rate": 41.1
+  },
+  {
+   "hero": "盾山",
+   "bans": 3234,
+   "ban_rate": 32.9
+  },
+  {
+   "hero": "沈梦溪",
+   "bans": 3033,
+   "ban_rate": 30.9
+  },
+  {
+   "hero": "公孙离",
+   "bans": 2825,
+   "ban_rate": 28.8
+  },
+  {
+   "hero": "关羽",
+   "bans": 2764,
+   "ban_rate": 28.2
+  },
+  {
+   "hero": "不知火舞",
+   "bans": 2673,
+   "ban_rate": 27.2
+  },
+  {
+   "hero": "镜",
+   "bans": 2370,
+   "ban_rate": 24.1
+  },
+  {
+   "hero": "海月",
+   "bans": 1764,
+   "ban_rate": 18
+  },
+  {
+   "hero": "澜",
+   "bans": 1503,
+   "ban_rate": 15.3
+  },
+  {
+   "hero": "阿古朵",
+   "bans": 1495,
+   "ban_rate": 15.2
+  },
+  {
+   "hero": "西施",
+   "bans": 1488,
+   "ban_rate": 15.2
+  },
+  {
+   "hero": "兰陵王",
+   "bans": 1446,
+   "ban_rate": 14.7
+  },
+  {
+   "hero": "孙膑",
+   "bans": 1341,
+   "ban_rate": 13.7
+  },
+  {
+   "hero": "张良",
+   "bans": 1319,
+   "ban_rate": 13.4
+  },
+  {
+   "hero": "蒙恬",
+   "bans": 1318,
+   "ban_rate": 13.4
+  },
+  {
+   "hero": "马超",
+   "bans": 1212,
+   "ban_rate": 12.3
+  },
+  {
+   "hero": "太乙真人",
+   "bans": 1170,
+   "ban_rate": 11.9
+  },
+  {
+   "hero": "狂铁",
+   "bans": 1092,
+   "ban_rate": 11.1
+  },
+  {
+   "hero": "大司命",
+   "bans": 1081,
+   "ban_rate": 11
+  }
+ ],
+ "top_pick": [
+  {
+   "hero": "沈梦溪",
+   "picks": 3052,
+   "win_rate": 51.1
+  },
+  {
+   "hero": "公孙离",
+   "picks": 2767,
+   "win_rate": 50.9
+  },
+  {
+   "hero": "太乙真人",
+   "picks": 2358,
+   "win_rate": 50.9
+  },
+  {
+   "hero": "张飞",
+   "picks": 2278,
+   "win_rate": 50.1
+  },
+  {
+   "hero": "夏侯惇",
+   "picks": 2138,
+   "win_rate": 48.3
+  },
+  {
+   "hero": "鲁班大师",
+   "picks": 2128,
+   "win_rate": 53.2
+  },
+  {
+   "hero": "镜",
+   "picks": 2007,
+   "win_rate": 52.3
+  },
+  {
+   "hero": "不知火舞",
+   "picks": 1958,
+   "win_rate": 51.9
+  },
+  {
+   "hero": "孙尚香",
+   "picks": 1946,
+   "win_rate": 50.6
+  },
+  {
+   "hero": "关羽",
+   "picks": 1897,
+   "win_rate": 53.6
+  },
+  {
+   "hero": "狄仁杰",
+   "picks": 1829,
+   "win_rate": 49.4
+  },
+  {
+   "hero": "狂铁",
+   "picks": 1737,
+   "win_rate": 52.2
+  },
+  {
+   "hero": "猪八戒",
+   "picks": 1692,
+   "win_rate": 47.4
+  },
+  {
+   "hero": "马超",
+   "picks": 1652,
+   "win_rate": 50.7
+  },
+  {
+   "hero": "王昭君",
+   "picks": 1632,
+   "win_rate": 48.8
+  },
+  {
+   "hero": "夏洛特",
+   "picks": 1609,
+   "win_rate": 47.4
+  },
+  {
+   "hero": "戈娅",
+   "picks": 1594,
+   "win_rate": 51.1
+  },
+  {
+   "hero": "廉颇",
+   "picks": 1544,
+   "win_rate": 47.2
+  },
+  {
+   "hero": "阿古朵",
+   "picks": 1469,
+   "win_rate": 49.4
+  },
+  {
+   "hero": "吕布",
+   "picks": 1419,
+   "win_rate": 51.1
+  }
+ ]
+}
